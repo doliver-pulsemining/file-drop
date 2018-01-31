@@ -1,6 +1,6 @@
 {
   "name": "file-drop",
-  "version": "0.0.2",
+  "version": "2.0.0",
   "authors": [
     "Chad Liu <chadliu23@gmail.com>"
   ],
@@ -21,10 +21,6 @@
     "/demo/"
   ],
   "dependencies": {
-    "polymer": "Polymer/polymer#^1.0.0"
-  },
-  "devDependencies": {
-    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
-    "web-component-tester": "*"
+    "polymer": "Polymer/polymer#^1.9 -2"
   }
 }
